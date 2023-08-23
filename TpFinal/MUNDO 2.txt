@@ -1,0 +1,19 @@
+Argentina-Bolivia-Brasil-Chile-Paraguay-Uruguay-Peru-Ecuador-Colombia-Venezuela-Guyana-Suriname-Panama-Costa Rica-Nicaragua-Honduras-Guatemala-Mexico
+Bolivia-Brasil-Chile-Paraguay-Uruguay
+Argentina-Brasil-Chile-Paraguay
+Argentina-Bolivia-Paraguay-Uruguay
+Argentina-Bolivia
+Argentina-Bolivia-Brasil
+Argentina-Brasil
+Bolivia-Brasil-Chile-Ecuador
+Colombia-Peru
+Brasil-Ecuador-Panama-Venezuela
+Brasil-Colombia-Guyana
+Brasil-Suriname-Venezuela
+Brasil-Guyana
+Colombia-Costa Rica
+Nicaragua-Panama
+Costa Rica-Honduras
+Guatelama-Nicaragua
+Honduras-Mexico
+Guatemala

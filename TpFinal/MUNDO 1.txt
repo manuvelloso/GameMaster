@@ -1,0 +1,7 @@
+Argentina-Bolivia-Brasil-Chile-Paraguay-Uruguay
+Bolivia-Brasil-Chile-Paraguay-Uruguay
+Argentina-Brasil-Chile-Paraguay
+Argentina-Bolivia-Paraguay-Uruguay
+Argentina-Bolivia
+Argentina-Bolivia-Brasil
+Argentina-Brasil
