@@ -1,0 +1,44 @@
+Steps
+0. Preguntar cantidad de jugadores
+1. Generar el juego
+2. Asignar turno (SetUp: generar los jugadores, repartimos los paises y las tropas)
+3. Imprimir en pantalla el estado (paises y tropas)
+
+----------------------------------------------------------------------------------
+Jugador 1
+Pais 1: Argentina
+	Tropa 1: Caballeros, cantidad, AT (suma de todos), HP% (suma de todos)
+	Tropa 2: Magos, cantidad, AT (suma de todos), HP% (suma de todos)
+Pais 2: Chile
+	Tropa 1: bla bla bla
+
+	...
+----------------------------------------------------------------------------------
+Jugador 2
+Pais 1: Mexico
+	Tropa 1: Caballeros, cantidad, AT (suma de todos), HP% (suma de todos)
+	Tropa 2: Magos, cantidad, AT (suma de todos), HP% (suma de todos)
+Pais 2: Brasil
+	Tropa 1: bla bla bla
+
+	...
+----------------------------------------------------------------------------------
+
+4. Jugador 1 decide a qué pais quiere atacar, desde dónde, y qué tropas quiere utilizar
+	4.a. Se llama a VerificarAtacado --> bool (do-while en el main)
+	4.b. Se llama a Batallar(todo). Se calcula el AtaqueEfectivo --> AT efectivo
+	4.c. Se iteran los jugadores y las listas de los paises que les corresponden, hasta encontrar PaisAtacado
+	4.d. Se llama a la función defensa desde el jugador hallado y se le pasa PaisAtacado --> AT
+	4.e. Se imprime en pantalla el ganador de la batalla
+
+
+
+--- LO QUE APARECE EN PANTALLA ---
+
+
+
+
+
+
+
+
